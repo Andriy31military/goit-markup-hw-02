@@ -1,0 +1,236 @@
+body {
+    font-family: "Roboto", "Raleway" sans-serif;
+    font-style: normal;
+    color: #434455;
+    background-color: #FFFFFF;
+  }
+
+ul {
+    list-style-type: none;
+}
+
+.top-line {
+border: 1px;
+border-color: #E7E9FC;
+background-color: #FFFFFF;
+}
+
+.logo .logo-first {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4D5AE5;
+}
+
+.logo .logo-second {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.menu a {
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+    text-decoration: none;
+}
+
+.menu .first-menu:active {
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.menu a:hover, a:focus {
+    color: #4D5AE5;
+}
+
+.contacts a {
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    text-decoration: none;
+    color: #434455;
+}
+
+.contacts a:hover, a:focus {
+    color: #4D5AE5;
+}
+
+.hero-image .main-text {
+    font-family: "Roboto" sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.hero-image .buttons {
+    background-color: #4D5AE5;
+    box-shadow: 0px 4px 15% #00000026;
+    cursor: pointer;
+}
+.hero-image .buttons:hover, .buttons:focus {
+    color: #404BBF;
+}
+
+.buttons .text-button {
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    vertical-align: middle;
+    color: #FFFFFF;
+}
+
+.hero-image {
+    background-color: #2E2F42;
+}
+
+.advantages .subtitle {
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.subtitle .subtitle-text {
+     font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.team-composition {
+    background-color: #F4F4FD;
+}
+
+.team-composition h2 {
+    font-family: "Roboto" sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.team-composition h3 {
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.team-composition p {
+     font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.our-work h2 {
+    font-family: "Roboto" sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.our-work {
+    border: 1px;
+    border-color: #E7E9FC;
+}
+
+.first-line {
+    border: 1px;
+    border-color: #E7E9FC;
+    background-color: #FFFFFF;
+}
+
+.second-line {
+    background-color: #FFFFFF;
+}
+
+.our-work h3 {
+    font-family: "Roboto" sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.our-work p {
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.wish {
+    background-color: #2E2F42;
+}
+
+.logotype .logotype-first {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4D5AE5;
+}
+
+.logotype .logotype-second {
+    font-family: "Raleway" sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #F4F4FD;
+}
+
+.wish p {
+    font-family: "Roboto" sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #F4F4FD;
+}
